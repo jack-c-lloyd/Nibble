@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -std=c23
+CFLAGS = -std=gnu2x
 
 SRC = $(wildcard *.c)
 OUT = nib
